@@ -102,7 +102,7 @@ class_date <- syllabusr::make_class_date(base_date, 'TuTh')
 <BR>
 **Web**: <https://www.dennisfeehan.org/teaching/2023fa_demog180.html>   
 **Ed page**: <https://edstem.org/us/courses/43235/discussion/>   
-**Gradescope page**: <https://www.gradescope.com/courses/585530>   
+**Gradescope page**: <https://www.gradescope.com/courses/588220>
 **Bcourses page**: <https://bcourses.berkeley.edu/courses/1528163>   
 **Lecture slides**: <https://drive.google.com/drive/folders/1LSsJnCvyzQOyHhVxFQI4abtwubmCV-DT>  
 <BR>
