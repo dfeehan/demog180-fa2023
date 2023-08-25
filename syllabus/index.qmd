@@ -94,6 +94,8 @@ next_class <- syllabusr::make_next_class_date(base_date, 'TuTh')
 class_date <- syllabusr::make_class_date(base_date, 'TuTh')
 ```
 
+(Syllabus last updated: `r format(Sys.Date(), "%Y-%B-%d")`)
+
 ## Quick links
 
 **Class meetings**: Tuesdays and Thursdays, 2:00-3:30PM, 60 Evans Hall
@@ -104,18 +106,16 @@ class_date <- syllabusr::make_class_date(base_date, 'TuTh')
 **Bcourses page**: <https://bcourses.berkeley.edu/courses/1528163>   
 **Lecture slides**: <https://drive.google.com/drive/folders/1LSsJnCvyzQOyHhVxFQI4abtwubmCV-DT>  
 <BR>
-**Staff**   
-Professor Dennis Feehan, feehan [at] berkeley.edu  
+**Staff:**   
+**Professor Dennis Feehan**, feehan [at] berkeley.edu  
 Office hours: (see Ed post)  
   
-GSI Christina Misunas, cmisunas [at] berkeley.edu
-Office hours: (see Ed post)  
+**GSI Christina Misunas**, cmisunas [at] berkeley.edu   
+Office hours: (see Ed post)    
    
 <BR>
 **Final exam**: TBA (Exam Location TBD)
 <BR>
-
-(Syllabus last updated: `r format(Sys.Date(), "%Y-%B-%d")`)
 
 ## Overview
 
