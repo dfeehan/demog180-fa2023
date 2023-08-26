@@ -121,7 +121,7 @@ Office hours: (see Ed post)
 
 The science of social networks focuses on measuring, modeling, and understanding the different ways that people are connected to one another.  In this class, we will use a broad toolkit of theories and methods drawn from the social, natural, and mathematical sciences to learn what a social network is, to understand how to work with social network data, and to illustrate some of the ways that social networks can be useful in theory and in practice. We will see that network ideas are powerful enough to be used everywhere from CDC and UNAIDS, where network models help epidemiologists prevent the spread of HIV, to Silicon Valley, where data scientists use network ideas to build products that enable people all across the globe to connect with one another.
 
-*** Please re-check the syllabus frequently; it will be updated as the semester progresses***
+**Please re-check the syllabus frequently; it will be updated as the semester progresses**
 
 ```{r show-schedule, echo=FALSE, warning=FALSE, error=FALSE, message=FALSE}
 tabshow <- tab %>%
