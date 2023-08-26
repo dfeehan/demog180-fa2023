@@ -98,25 +98,25 @@ class_date <- syllabusr::make_class_date(base_date, 'TuTh')
 
 ## Quick links
 
-**Class meetings**: Tuesdays and Thursdays, 2:00-3:30PM, 60 Evans Hall
+**Class meetings**: Tuesdays and Thursdays, 2:00-3:30PM, 60 Evans Hall   
 <BR>
-**Web**: <https://www.dennisfeehan.org/teaching/2023fa_demog180.html>   
+**Web**: <https://www.dennisfeehan.org/demog180-fa2023>   
 **Ed page**: <https://edstem.org/us/courses/43235/discussion/>   
 **Gradescope page**: <https://www.gradescope.com/courses/588220>
 **Bcourses page**: <https://bcourses.berkeley.edu/courses/1528163>   
 **Lecture slides**: <https://drive.google.com/drive/folders/1LSsJnCvyzQOyHhVxFQI4abtwubmCV-DT>  
 <BR>
-**Staff:**   
+**Final exam**: TBA (Exam Location TBD)
+<BR>
+
+## Staff
+   
 **Professor Dennis Feehan**, feehan [at] berkeley.edu  
 Office hours: (see Ed post)  
   
 **GSI Christina Misunas**, cmisunas [at] berkeley.edu   
 Office hours: (see Ed post)    
    
-<BR>
-**Final exam**: TBA (Exam Location TBD)
-<BR>
-
 ## Overview
 
 The science of social networks focuses on measuring, modeling, and understanding the different ways that people are connected to one another.  In this class, we will use a broad toolkit of theories and methods drawn from the social, natural, and mathematical sciences to learn what a social network is, to understand how to work with social network data, and to illustrate some of the ways that social networks can be useful in theory and in practice. We will see that network ideas are powerful enough to be used everywhere from CDC and UNAIDS, where network models help epidemiologists prevent the spread of HIV, to Silicon Valley, where data scientists use network ideas to build products that enable people all across the globe to connect with one another.
