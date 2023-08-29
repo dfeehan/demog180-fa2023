@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Social Networks (Demography 180)",
+    "section": "",
+    "text": "(Syllabus last updated: 2023-August-29)"
+  },
+  {
     "objectID": "index.html#quick-links",
     "href": "index.html#quick-links",
     "title": "Social Networks (Demography 180)",
@@ -7,11 +14,18 @@
     "text": "Quick links\nClass meetings: Tuesdays and Thursdays, 2:00-3:30PM, 60 Evans Hall\n Web: https://www.dennisfeehan.org/demog180-fa2023\nEd page: https://edstem.org/us/courses/43235/discussion/\nGradescope page: https://www.gradescope.com/courses/588220 Bcourses page: https://bcourses.berkeley.edu/courses/1528163\nLecture slides: https://drive.google.com/drive/folders/1LSsJnCvyzQOyHhVxFQI4abtwubmCV-DT\n Final exam: TBA (Exam Location TBD)"
   },
   {
+    "objectID": "index.html#staff",
+    "href": "index.html#staff",
+    "title": "Social Networks (Demography 180)",
+    "section": "Staff",
+    "text": "Staff\nProfessor Dennis Feehan, feehan [at] berkeley.edu\nOffice hours: (see Ed post)\nGSI Christina Misunas, cmisunas [at] berkeley.edu\nOffice hours: (see Ed post)"
+  },
+  {
     "objectID": "index.html#overview",
     "href": "index.html#overview",
     "title": "Social Networks (Demography 180)",
     "section": "Overview",
-    "text": "Overview\nThe science of social networks focuses on measuring, modeling, and understanding the different ways that people are connected to one another. In this class, we will use a broad toolkit of theories and methods drawn from the social, natural, and mathematical sciences to learn what a social network is, to understand how to work with social network data, and to illustrate some of the ways that social networks can be useful in theory and in practice. We will see that network ideas are powerful enough to be used everywhere from CDC and UNAIDS, where network models help epidemiologists prevent the spread of HIV, to Silicon Valley, where data scientists use network ideas to build products that enable people all across the globe to connect with one another.\nPlease re-check the syllabus frequently; it will be updated as the semester progresses\n\n\n\n\n\nWeek\nDate\nTopic\nLecture\nLab\nHwk\n\n\n\n\n1\nThu, Aug 24\nIntro / what social networks are / class info\n\n\n\n\n\n2\nTue, Aug 29\nBasic graph theory: definitions, types of networks, types of network data; survey data collection\n\n\n\n\n\n2\nThu, Aug 31\nPersonal networks; social connectedness and social isolation in America\n\n\n\n\n\n3\nTue, Sep 5\nWorking with personal network data; our survey results\n\n\n\n\n\n3\nThu, Sep 7\nWorking with entire network data; quantifying network structure\n\n\n\n\n\n4\nTue, Sep 12\nIntro to mathematical network models; the Erdos-Renyi model and its predictions\n\n\n\n\n\n4\nThu, Sep 14\nStrength of weak ties; social capital\n\n\n\n\n\n5\nTue, Sep 19\nNetworks in context; homophily\n\n\n\n\n\n5\nThu, Sep 21\nPositive and negative relationships\n\n\n\n\n\n6\nTue, Sep 26\nAffiliation networks; foci; group membership; one-mode projections of bipartite networks\n\n\n\n\n\n6\nThu, Sep 28\nSmall worlds\n\n\n\n\n\n7\nTue, Oct 3\nSearch in small worlds\n\n\n\n\n\n7\nThu, Oct 5\nMidterm review\n\n\n\n\n\n8\nTue, Oct 10\nMidterm\n\n\n\n\n\n8\nThu, Oct 12\nScale-free networks\n\n\n\n\n\n9\nTue, Oct 17\nEmpirical studies of network structure\n\n\n\n\n\n9\nThu, Oct 19\nDiseases and simple contagion in general; SIR model\n\n\n\n\n\n10\nTue, Oct 24\nSIR model on networks\n\n\n\n\n\n10\nThu, Oct 26\nCentrality, influence, and network disease models\n\n\n\n\n\n11\nTue, Oct 31\nSexual networks, concurrency, and HIV\n\n\n\n\n\n11\nThu, Nov 2\n\n\n\n\n\n\n12\nTue, Nov 7\nSocial influence, herding, and cascades\n\n\n\n\n\n12\nThu, Nov 9\nThreshold models and complex contagion\n\n\n\n\n\n13\nTue, Nov 14\nComplex contagion on networks\n\n\n\n\n\n13\nThu, Nov 16\nComplex contagion on networks, cont.\n\n\n\n\n\n14\nTue, Nov 21\nNO CLASS\n\n\n\n\n\n14\nThu, Nov 23\nTHANKSGIVING (NO CLASS)\n\n\n\n\n\n15\nTue, Nov 28\nIs obesity contagious? Experimental and observational studies of complex contagion\n\n\n\n\n\n15\nThu, Nov 30\nWrap up\n\n\n\n\n\n16\nTue, Dec 5\nREADING WEEK\n\n\n\n\n\n16\nThu, Dec 7\nREADING WEEK"
+    "text": "Overview\nThe science of social networks focuses on measuring, modeling, and understanding the different ways that people are connected to one another. In this class, we will use a broad toolkit of theories and methods drawn from the social, natural, and mathematical sciences to learn what a social network is, to understand how to work with social network data, and to illustrate some of the ways that social networks can be useful in theory and in practice. We will see that network ideas are powerful enough to be used everywhere from CDC and UNAIDS, where network models help epidemiologists prevent the spread of HIV, to Silicon Valley, where data scientists use network ideas to build products that enable people all across the globe to connect with one another.\nLab 0 test\nPlease re-check the syllabus frequently; it will be updated as the semester progresses\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nDate\nTopic\nLecture\nLab\nHwk\n\n\n\n\n1\nThu, Aug 24\nIntro / what social networks are / class info\n\n\n\n\n\n2\nTue, Aug 29\nBasic graph theory: definitions, types of networks, types of network data; survey data collection\n\nIntro to whole network data\n\n[Lab 0](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Flab%2Flab0%2Flab0-rev.ipynb&branch=main)\n\n\n\n2\nThu, Aug 31\nPersonal networks; social connectedness and social isolation in America\n\n\n\n\n\n3\nTue, Sep 5\nWorking with personal network data; our survey results\n\n\n\n\n\n3\nThu, Sep 7\nWorking with entire network data; quantifying network structure\n\n\n\n\n\n4\nTue, Sep 12\nIntro to mathematical network models; the Erdos-Renyi model and its predictions\n\n\n\n\n\n4\nThu, Sep 14\nStrength of weak ties; social capital\n\n\n\n\n\n5\nTue, Sep 19\nNetworks in context; homophily\n\n\n\n\n\n5\nThu, Sep 21\nPositive and negative relationships\n\n\n\n\n\n6\nTue, Sep 26\nAffiliation networks; foci; group membership; one-mode projections of bipartite networks\n\n\n\n\n\n6\nThu, Sep 28\nSmall worlds\n\n\n\n\n\n7\nTue, Oct 3\nSearch in small worlds\n\n\n\n\n\n7\nThu, Oct 5\nMidterm review\n\n\n\n\n\n8\nTue, Oct 10\nMidterm\n\n\n\n\n\n8\nThu, Oct 12\nScale-free networks\n\n\n\n\n\n9\nTue, Oct 17\nEmpirical studies of network structure\n\n\n\n\n\n9\nThu, Oct 19\nDiseases and simple contagion in general; SIR model\n\n\n\n\n\n10\nTue, Oct 24\nSIR model on networks\n\n\n\n\n\n10\nThu, Oct 26\nCentrality, influence, and network disease models\n\n\n\n\n\n11\nTue, Oct 31\nSexual networks, concurrency, and HIV\n\n\n\n\n\n11\nThu, Nov 2\n\n\n\n\n\n\n12\nTue, Nov 7\nSocial influence, herding, and cascades\n\n\n\n\n\n12\nThu, Nov 9\nThreshold models and complex contagion\n\n\n\n\n\n13\nTue, Nov 14\nComplex contagion on networks\n\n\n\n\n\n13\nThu, Nov 16\nComplex contagion on networks, cont.\n\n\n\n\n\n14\nTue, Nov 21\nNO CLASS\n\n\n\n\n\n14\nThu, Nov 23\nTHANKSGIVING (NO CLASS)\n\n\n\n\n\n15\nTue, Nov 28\nIs obesity contagious? Experimental and observational studies of complex contagion\n\n\n\n\n\n15\nThu, Nov 30\nWrap up\n\n\n\n\n\n16\nTue, Dec 5\nREADING WEEK\n\n\n\n\n\n16\nThu, Dec 7\nREADING WEEK"
   },
   {
     "objectID": "index.html#requirements",
@@ -35,24 +49,10 @@
     "text": "Other class policies\nReligious Accommodations\nRequests to accommodate a student’s religious creed by scheduling tests or examinations at alternative times should be submitted directly to the instructor. Reasonable common sense, judgment and the pursuit of mutual goodwill should result in the positive resolution of scheduling conflicts. The regular campus appeals process applies if a mutually satisfactory arrangement cannot be achieved.\nStatement on Academic Freedom\nBoth students and instructors have rights to academic freedom. Please respect the rights of others to express their points of view in the classroom.\nDSP Accommodations\nThe purpose of academic accommodations is to ensure that all students have a fair chance at academic success. Disability, or hardships such as basic needs insecurity, uncertain documentation and immigration status, medical and mental health concerns, pregnancy and parenting, significant familial distress, and experiencing sexual violence or harassment, can affect a student’s ability to satisfy particular course requirements. Students have the right to reasonable academic accommodations, without having to disclose personal information to instructors. For more information about accommodations, scheduling conflicts related to religious creed or extracurricular activities, please see the Academic Accommodations hub website.\nStudent Resources\nThe Student Learning Center provides a wide range of resources to promote learning and academic success for students. For information regarding these services, please consult the Student Learning Center Website: https://slc.berkeley.edu/\nClassroom Climate\nWe are all responsible for creating a learning environment that is welcoming, inclusive, equitable, and respectful. If you feel that these expectations are not being met, you can consult your instructor(s) or seek assistance from campus resources (see the Academic Accommodations website).\nAcademic Integrity\nThe high academic standard at the University of California, Berkeley, is reflected in each degree that is awarded. As a result, every student is expected to maintain this high standard by ensuring that all academic work reflects unique ideas or properly attributes the ideas to the original sources.\nThese are some basic expectations of students with regards to academic integrity:\n\nAny work submitted should be your own individual thoughts, and should not have been submitted for credit in another course unless you have prior written permission to re-use it in this course from this instructor.\nAll assignments must use “proper attribution,” meaning that you have identified the original source and extent or words or ideas that you reproduce or use in your assignment. This includes drafts and homework assignments!\nIf you are unclear about expectations, ask your instructor or GSI.\nDo not collaborate or work with other students on assignments or projects unless you have been given permission or instruction to do so."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Social Networks (Demography 180)",
-    "section": "",
-    "text": "(Syllabus last updated: 2023-August-25)"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html#staff",
-    "href": "index.html#staff",
-    "title": "Social Networks (Demography 180)",
-    "section": "Staff",
-    "text": "Staff\nProfessor Dennis Feehan, feehan [at] berkeley.edu\nOffice hours: (see Ed post)\nGSI Christina Misunas, cmisunas [at] berkeley.edu\nOffice hours: (see Ed post)"
   }
 ]
