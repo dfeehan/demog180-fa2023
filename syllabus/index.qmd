@@ -136,7 +136,13 @@ tabshow %>%
   sub_missing(missing_text='') %>%
   fmt_markdown(columns='Lecture') %>%
   fmt_markdown(columns='Lab') %>%
-  fmt_markdown(columns='Hwk') 
+  fmt_markdown(columns='Hwk')  %>%
+  cols_width( Week ~ px(50),
+              Date ~ px(250),
+              Topic ~ px(500),
+              Lecture ~ px(200),
+              Lab ~ px(200),
+              Hwk ~ px(200))
 ```
 
 ## Requirements
