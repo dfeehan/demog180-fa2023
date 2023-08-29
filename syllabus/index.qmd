@@ -226,9 +226,11 @@ Reading:
 * @easley_networks_2010 Ch.1-Ch.2
 
 
+<!--
 #### Homework 1 {#sec:hwk1}
 
 * [Assignment](https://tinyurl.com/demog180-fa22-hwk01)
+-->
 
 
 ### Personal networks {#sec:personal}
@@ -239,13 +241,14 @@ Lectures:
 * Sampling variation and the bootstrap; null models and a permutation test
 * Patterns of homophily in Berkeley students' personal networks
 
-
+<!--
 * [Lecture demo: Personal networks of Berkeley students][personal networks demo]
 
 Other resources:
 
 * Lab: Analyzing personal networks [part 1][lab1_1] [part 2][lab1_2]
 * Hwk 2  [Homework 2: Analyzing personal networks][hwk2]
+-->
 
 Reading: 
 
@@ -256,20 +259,25 @@ Reading:
 Lectures:
 
 * Working with entire network data; quantifying network structure: degree distributions, average path length, clustering
+
+<!--
 * Lecture demo [Lecture demo: Working with complete network data ][whole network demo]
 
 Other resources:
 
 * Lab 2 [Lab 2: Working with complete network data][lab2]
-<!-- * Hwk 3 [Hwk 3: Calculating average clustering in complete networks][hwk3] -->
-
+* Hwk 3 [Hwk 3: Calculating average clustering in complete networks][hwk3]
+-->
 
 ### Network models: the ER model {#sec:models}
 
 Lectures:
 
 * Intro to mathematical network models; the Erdos-Renyi model and its predictions
+
+<!--
 * Lecture demo [Lecture demo: Erdos-Renyi random networks notebook][er demo]
+-->
 
 Readings:
 
@@ -282,11 +290,16 @@ Lectures:
 * Strength of weak ties; social capital
 * Networks in context; homophily: choice and structure; social implications
 * Using a null model to analyze empirical data; homophily example
+
+<!--
 * Lecture demo: [Strength of weak ties in the wiki talk network][sowt demo]
+-->
 
 Other resources:
 
+<!--
 * Lab [Using the assortativity coefficient to quantify homophily][lab3]
+-->
 
 Reading:
 
@@ -300,7 +313,10 @@ Reading:
 Lectures:
 
 * Positive and negative relationships
+
+<!--
 * [Lecture demo: Structural balance in the small slashdot network][structural balance demo]
+-->
 
 Reading:
 
@@ -336,7 +352,10 @@ Lectures:
 
 * Search in small world
 * Scale-free networks
+
+<!--
 * [Netlogo demo of Barabasi-Albert model][netlogo ba model]
+-->
 
 Readings:
 
