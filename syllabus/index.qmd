@@ -4,7 +4,7 @@ editor: source
 pagetitle: "Social Networks (Demog 180)"
 bibliography: class_networks_2023.bib
 csl: chicago-syllabus.csl
-suppress-bibliography: True
+#suppress-bibliography: True
 output:
   html_document: 
     css: syllabus.css
@@ -76,7 +76,7 @@ write_xlsx(list(overview=sheet),
 tab <- read_excel(paste0(class_fn, '.xlsx'), 
                   sheet='overview',
                   #range= "C1:I32")
-                  range= "C1:H32")
+                  range= "B1:H32")
 
 
 ## THIS ASSUMES THAT
@@ -131,18 +131,23 @@ options(knitr.kable.NA = '')
 #  kable() %>%
 #  kable_styling(bootstrap_options = c('striped'))
 
+# Trying to get what are called 'reference-style links' to work
+# in markdown column
+# https://www.markdownguide.org/basic-syntax/
+
 tabshow %>%
   gt() %>%
   sub_missing(missing_text='') %>%
+  fmt_markdown(columns='Theme') %>%
   fmt_markdown(columns='Lecture') %>%
   fmt_markdown(columns='Lab') %>%
-  fmt_markdown(columns='Hwk')  %>%
-  cols_width( Week ~ px(50),
-              Date ~ px(250),
-              Topic ~ px(500),
-              Lecture ~ px(200),
-              Lab ~ px(200),
-              Hwk ~ px(200))
+  fmt_markdown(columns='Hwk')  
+  #cols_width( Week ~ px(50),
+  #            Date ~ px(100),
+  #            Topic ~ px(500),
+  #            Lecture ~ px(200),
+  #            Lab ~ px(200),
+  #            Hwk ~ px(200))
 ```
 
 ## Requirements
@@ -214,11 +219,21 @@ Intro to social networks; course overview
 Lectures:
 
 * Intro / what social networks are / class info
-* Basic graph theory: definitions, types of networks
+* Basic graph theory: definitions, types of networks; working with complete network data; degree distributions, average path length, clustering
+
+<!--
+* Lecture demo [Lecture demo: Working with complete network data ][whole network demo]
 
 Other resources:
 
+* Lab 2 [Lab 2: Working with complete network data][lab2]
+* Hwk 3 [Hwk 3: Calculating average clustering in complete networks][hwk3]
+-->
+Other resources:
+
 * [Lab 0: some Python basics][lab0]
+* Lab 1: some Python basics
+* Hwk 2: the clustering coefficient
 
 Reading: 
 
@@ -241,6 +256,10 @@ Lectures:
 * Sampling variation and the bootstrap; null models and a permutation test
 * Patterns of homophily in Berkeley students' personal networks
 
+Other resources:
+
+* Hwk 1: Collecting personal network data
+
 <!--
 * [Lecture demo: Personal networks of Berkeley students][personal networks demo]
 
@@ -250,24 +269,54 @@ Other resources:
 * Hwk 2  [Homework 2: Analyzing personal networks][hwk2]
 -->
 
+<!--
 Reading: 
 
-* @easley_networks_2010 Ch.2 (Graphs)
+TODO - would be good to have a reading for this...
 
-### Working with complete network data {#sec:complete}
+-->
+
+
+### Triadic closure / strength of weak ties / social capital {#sec:closure-sowt}
 
 Lectures:
 
-* Working with entire network data; quantifying network structure: degree distributions, average path length, clustering
-
-<!--
-* Lecture demo [Lecture demo: Working with complete network data ][whole network demo]
+* Triadic close; strength of weak ties 
+* Social capital; structural holes
 
 Other resources:
-
-* Lab 2 [Lab 2: Working with complete network data][lab2]
-* Hwk 3 [Hwk 3: Calculating average clustering in complete networks][hwk3]
+<!--
+* Lecture demo: [Strength of weak ties in the wiki talk network][sowt demo]
 -->
+
+Reading:
+
+* @easley_networks_2010 Ch. 3.1-3.3 (Tie strength)
+* @easley_networks_2010 Ch. 3.5 (Social capital)
+
+### Homophily and balance theory {#sec:homophily-balance}
+
+Lectures:
+
+* Networks in context; homophily: choice and structure; social implications
+* Positive and negative relationships
+
+Other resources:
+* Lab - Using a null model to analyze empirical data; homophily example
+
+<!--
+* [Lecture demo: Structural balance in the small slashdot network][structural balance demo]
+-->
+
+Reading:
+
+* @easley_networks_2010 Ch.5.1-5.2 (Positive and negative relationships)
+
+<!--
+* Lab [Using the assortativity coefficient to quantify homophily][lab3]
+-->
+
+
 
 ### Network models: the ER model {#sec:models}
 
@@ -282,45 +331,6 @@ Lectures:
 Readings:
 
 * @watts_six_2003 Ch. 2
-
-### Tie strength and homophily {#sec:homophily}
-
-Lectures:
-
-* Strength of weak ties; social capital
-* Networks in context; homophily: choice and structure; social implications
-* Using a null model to analyze empirical data; homophily example
-
-<!--
-* Lecture demo: [Strength of weak ties in the wiki talk network][sowt demo]
--->
-
-Other resources:
-
-<!--
-* Lab [Using the assortativity coefficient to quantify homophily][lab3]
--->
-
-Reading:
-
-* @easley_networks_2010 Ch. 3.1-3.3 (Tie strength)
-* @easley_networks_2010 Ch. 3.5 (Social capital)
-* @easley_networks_2010 Ch.4.1-4.2 (Homophily)
-
-
-### Balance theory {#sec:balance}
-
-Lectures:
-
-* Positive and negative relationships
-
-<!--
-* [Lecture demo: Structural balance in the small slashdot network][structural balance demo]
--->
-
-Reading:
-
-* @easley_networks_2010 Ch.5.1-5.2 (Positive and negative relationships)
 
 
 ### Affiliation networks {#sec:affiliation}
