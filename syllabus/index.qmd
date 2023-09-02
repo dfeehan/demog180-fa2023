@@ -139,10 +139,19 @@ tabshow %>%
   gt() %>%
   sub_missing(missing_text='') %>%
   fmt_markdown(columns='Theme') %>%
+  fmt_markdown(columns='Week') %>%
   fmt_markdown(columns='Lecture') %>%
   fmt_markdown(columns='Lab') %>%
-  fmt_markdown(columns='Hwk')  
-  #cols_width( Week ~ px(50),
+  fmt_markdown(columns='Hwk') %>%
+  cols_width( Theme ~ pct(10),
+              Week ~ pct(5),
+              Date ~ pct(5),
+              Topic ~ pct(40),
+              Lecture ~ px(20),
+              Lab ~ px(10),
+              Hwk ~ px(10))
+  #cols_width( Theme ~ px(50),
+  #            Week ~ px(50),
   #            Date ~ px(100),
   #            Topic ~ px(500),
   #            Lecture ~ px(200),
