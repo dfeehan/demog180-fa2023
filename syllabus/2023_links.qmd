@@ -16,7 +16,7 @@
 [sowt demo]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Flecture%2Fstrength_of_weak_ties%2Fsowt_wiki_talk.ipynb&branch=main -->
 [structural balance demo]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Flecture%2Fstrength_of_weak_ties%2Fsowt_wiki_talk.ipynb&branch=main -->
 [er demo]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Flecture%2Fer_random_networks%2Fer_random_networks.ipynb&branch=main -->
-[Two mode network demo] (https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Fecture%2Ftwo_mode_networks%2Ftwo_mode_networks.ipynb&branch=main)
+[Two mode network demo] <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Fecture%2Ftwo_mode_networks%2Ftwo_mode_networks.ipynb&branch=main -->
 
 
 [personal networks demo]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2022&urlpath=tree%2Fdemog180-fa2022%2Flecture%2F01_surveys%2F01_ucb_personal_networks.ipynb&branch=main -->
