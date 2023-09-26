@@ -348,6 +348,10 @@ Lectures:
 
 * Affiliation networks; foci; group membership; one-mode projections of bipartite networks
 
+<!--
+* [Lecture demo: Two mode network demo][Two mode network demo]
+-->
+
 Readings:
 
 * @easley_networks_2010 Ch.4.3-4.4 (Affiliation networks)
