@@ -18,12 +18,12 @@
 [structural balance demo]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Flecture%2Fstrength_of_weak_ties%2Fsowt_wiki_talk.ipynb&branch=main -->
 [er demo]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Flecture%2Fer_random_networks%2Fer_random_networks.ipynb&branch=main -->
 [Two mode network demo] <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Flecture%2Ftwo_mode_networks%2Ftwo_mode_networks.ipynb&branch=main -->
-
+[netlogo ba model]: <!-- https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Networks/Preferential%20Attachment.nlogo-->
 
 [personal networks demo]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2022&urlpath=tree%2Fdemog180-fa2022%2Flecture%2F01_surveys%2F01_ucb_personal_networks.ipynb&branch=main -->
 [sir thresh demo]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2022&urlpath=tree%2Fdemog180-fa2022%2Flecture%2F07_sir_model%2Fsir_threshold_infectiousness.ipynb&branch=main  -->
 [ipd demo]: <!-- http://datahub.berkeley.edu/user-redirect/interact?account=dfeehan&repo=demog180-sp2019&branch=master&path=lecture/08_cooperation/ipd_tournament.ipynb -->
-[netlogo ba model]: <!-- https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Networks/Preferential%20Attachment.nlogo-->
+
 [SIR demo]: <!-- https://shiny.demog.berkeley.edu/dennis/model-SIR/ -->
 [network SIR demo]: <!-- http://shiny.demog.berkeley.edu/dennis/shiny-SimNetwork/ -->
 [concurrency]: <!-- http://shiny.demog.berkeley.edu/dennis/concurrency/ -->
