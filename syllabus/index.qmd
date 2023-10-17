@@ -355,7 +355,7 @@ Lectures:
 Readings:
 
 * @easley_networks_2010 Ch.4.3-4.4 (Affiliation networks)
-
+w
 
 ### Small worlds {#sec:smallworlds}
 
