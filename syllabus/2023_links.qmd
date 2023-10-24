@@ -25,15 +25,14 @@
 [netlogo ba model]: <!-- https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Networks/Preferential%20Attachment.nlogo-->
 [Community detection]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Flecture%2Fcommunity_detection%2Flecture_examples_community_detection.ipynb&branch=main)-->
 [SIR demo]: <!-- https://shiny.demog.berkeley.edu/dennis/model-SIR/ -->
+[sir thresh demo]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Flecture%2Fsir_model%2Fsir_threshold_infectiousness.ipynb&branch=main -->
+[network SIR demo]: <!-- http://shiny.demog.berkeley.edu/dennis/shiny-SimNetwork/ -->
+
 
 [personal networks demo]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2022&urlpath=tree%2Fdemog180-fa2022%2Flecture%2F01_surveys%2F01_ucb_personal_networks.ipynb&branch=main -->
-[sir thresh demo]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2022&urlpath=tree%2Fdemog180-fa2022%2Flecture%2F07_sir_model%2Fsir_threshold_infectiousness.ipynb&branch=main  -->
 [ipd demo]: <!-- http://datahub.berkeley.edu/user-redirect/interact?account=dfeehan&repo=demog180-sp2019&branch=master&path=lecture/08_cooperation/ipd_tournament.ipynb -->
 
-
-[network SIR demo]: <!-- http://shiny.demog.berkeley.edu/dennis/shiny-SimNetwork/ -->
 [concurrency]: <!-- http://shiny.demog.berkeley.edu/dennis/concurrency/ -->
-
 
 [hwk7]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2022&urlpath=tree%2Fdemog180-fa2022%2Fhwk%2Fhw7%2Fhw7.ipynb&branch=main -->
 
