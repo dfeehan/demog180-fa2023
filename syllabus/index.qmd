@@ -100,7 +100,7 @@ class_date <- syllabusr::make_class_date(base_date, 'TuTh')
 **Bcourses page**: <https://bcourses.berkeley.edu/courses/1528163>   
 **Lecture slides**: <https://drive.google.com/drive/folders/1LSsJnCvyzQOyHhVxFQI4abtwubmCV-DT>  
 <BR>
-**Final exam**: TBA (Exam Location TBD)
+**Final exam**: December 12, 2023 8:00-11:00am (60 Evans Hall)
 <BR>
 
 ## Staff
