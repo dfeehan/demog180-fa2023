@@ -240,7 +240,7 @@ Other resources:
 -->
 Other resources:
 
-* [Lab 0: some Python basics][lab0]
+* Lab 0: some Python basics
 * Lab 1: some Python basics
 * Hwk 2: the clustering coefficient
 

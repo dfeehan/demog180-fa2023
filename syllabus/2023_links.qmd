@@ -8,7 +8,6 @@
 [lab4]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Flab%2Flab%25204%2Flab04_affiliation_networks.ipynb&branch=main  -->
 [lab5]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Flab%2Flab5%2Flab5_centrality_sirmodel.ipynb&branch=main  -->
 
-
 [hwk1]: <!-- https://tinyurl.com/demog180-fa23-hwk01 -->
 [hwk2]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Fhwk%2Fhwk02%2Fhwk_clusteringcoef.ipynb&branch=main -->
 [hwk3]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Fhwk%2Fhwk03%2Fhwk03_personal_networks.ipynb&branch=main -->
@@ -29,7 +28,6 @@
 [sir thresh demo]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Flecture%2Fsir_model%2Fsir_threshold_infectiousness.ipynb&branch=main -->
 [SIR demo]: <!-- https://shiny.demog.berkeley.edu/dennis/model-SIR/ -->
 [network SIR demo]: <!-- http://shiny.demog.berkeley.edu/dennis/shiny-SimNetwork/ -->
-
 
 [personal networks demo]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2022&urlpath=tree%2Fdemog180-fa2022%2Flecture%2F01_surveys%2F01_ucb_personal_networks.ipynb&branch=main -->
 [ipd demo]: <!-- http://datahub.berkeley.edu/user-redirect/interact?account=dfeehan&repo=demog180-sp2019&branch=master&path=lecture/08_cooperation/ipd_tournament.ipynb -->
